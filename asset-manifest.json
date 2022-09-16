@@ -1,13 +1,13 @@
 {
-  "main.css": "/Step-form-react/static/css/main.ab5f87ff.chunk.css",
-  "main.js": "/Step-form-react/static/js/main.8d89f3ab.chunk.js",
-  "main.js.map": "/Step-form-react/static/js/main.8d89f3ab.chunk.js.map",
-  "static/js/1.1ed236b5.chunk.js": "/Step-form-react/static/js/1.1ed236b5.chunk.js",
-  "static/js/1.1ed236b5.chunk.js.map": "/Step-form-react/static/js/1.1ed236b5.chunk.js.map",
-  "runtime~main.js": "/Step-form-react/static/js/runtime~main.2d803f42.js",
-  "runtime~main.js.map": "/Step-form-react/static/js/runtime~main.2d803f42.js.map",
-  "static/css/main.ab5f87ff.chunk.css.map": "/Step-form-react/static/css/main.ab5f87ff.chunk.css.map",
-  "index.html": "/Step-form-react/index.html",
-  "precache-manifest.496917d740cfd1d7a0ba3f05dfafdeef.js": "/Step-form-react/precache-manifest.496917d740cfd1d7a0ba3f05dfafdeef.js",
-  "service-worker.js": "/Step-form-react/service-worker.js"
+  "main.css": "/step-form-react/static/css/main.ab5f87ff.chunk.css",
+  "main.js": "/step-form-react/static/js/main.8d89f3ab.chunk.js",
+  "main.js.map": "/step-form-react/static/js/main.8d89f3ab.chunk.js.map",
+  "static/js/1.1ed236b5.chunk.js": "/step-form-react/static/js/1.1ed236b5.chunk.js",
+  "static/js/1.1ed236b5.chunk.js.map": "/step-form-react/static/js/1.1ed236b5.chunk.js.map",
+  "runtime~main.js": "/step-form-react/static/js/runtime~main.49bdf734.js",
+  "runtime~main.js.map": "/step-form-react/static/js/runtime~main.49bdf734.js.map",
+  "static/css/main.ab5f87ff.chunk.css.map": "/step-form-react/static/css/main.ab5f87ff.chunk.css.map",
+  "index.html": "/step-form-react/index.html",
+  "precache-manifest.1f54a1f8926a0a101c466321bc03840d.js": "/step-form-react/precache-manifest.1f54a1f8926a0a101c466321bc03840d.js",
+  "service-worker.js": "/step-form-react/service-worker.js"
 }
